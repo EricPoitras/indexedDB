@@ -33,4 +33,7 @@ Issues resolution posted here:
 
 https://stackoverflow.com/questions/18848860/javascript-array-to-csv/18849208#18849208
 
+# JS Library to Export .CSV File
+
+https://www.papaparse.com/
 
