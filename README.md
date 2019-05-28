@@ -1,7 +1,7 @@
 # indexedDB
 Indexed database on client side example
 
-# Documentation
+# Documentation on IndexedDB
 
 https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB
 
@@ -15,7 +15,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
 
 https://caniuse.com/#feat=indexeddb
 
-# JS Library
+# JS Library for Local Database
 
 https://pouchdb.com/learn.html
 
@@ -25,7 +25,7 @@ http://alasql.org/
 
 http://taffydb.com/
 
-# Export CSV file
+# Export CSV file Using JS
 
 https://stackoverflow.com/questions/14964035/how-to-export-javascript-array-info-to-csv-on-client-side
 
@@ -33,7 +33,7 @@ Issues resolution posted here:
 
 https://stackoverflow.com/questions/18848860/javascript-array-to-csv/18849208#18849208
 
-# JS Library to Export .CSV File
+# JS Library to Export .CSV File from JSON
 
 https://www.papaparse.com/
 
